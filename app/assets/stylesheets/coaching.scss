@@ -1,0 +1,76 @@
+// Place all the styles related to the Coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#title_question {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+  font-size: 48px !important;
+  line-height: 56px !important;
+  letter-spacing: -0.8px !important;
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+  color: #484848 !important;
+  font-weight: 300 !important;
+}
+
+#question {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+  font-size: 19px !important;
+  line-height: 24px !important;
+  letter-spacing: undefined !important;
+  padding-top: undefined !important;
+  padding-bottom: undefined !important;
+  color: #484848 !important;
+  font-weight: normal !important;
+  background-color: transparent
+}
+
+#user-input {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+  font-size: 19px !important;
+  line-height: 24px !important;
+  letter-spacing: undefined !important;
+  padding-top: undefined !important;
+  padding-bottom: undefined !important;
+  color: #484848 !important;
+  font-weight: normal !important;
+  background-color: transparent
+}
+
+#btn {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+  font-size: 19px !important;
+  line-height: 15px !important;
+  letter-spacing: undefined !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  color: #ffffff !important;
+  padding-left: 18px !important;
+  padding-right: 18px !important;
+  border-radius: 4px !important;
+  border: 0px !important;
+  background: #FF5A5F !important;
+  margin: 12px !important;
+  margin-left: 16px !important;
+  height: 48px !important;
+  }
+
+  p {
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+  font-size: 19px !important;
+  line-height: 24px !important;
+  letter-spacing: undefined !important;
+  padding-top: undefined !important;
+  padding-bottom: undefined !important;
+  color: #484848 !important;
+  font-weight: normal !important;
+  background-color: transparent
+  }
+
+.banner {
+  height: 100vh;
+  background-size: cover;
+  justify-content: center;
+  text-align: center;
+}
+
